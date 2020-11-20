@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.7;
+    color:  #5c5c6b;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1140px; 
+}
+
+h1 {
+    color: #57567d;
+    margin-bottom: 0;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
