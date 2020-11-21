@@ -1,9 +1,10 @@
 body {
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Baloo 2", cursive;
     line-height: 1.7;
-    color:  #5c5c6b;
+    color:  #76767e;
+    background: black;
 }
 
 .container {
